@@ -1,0 +1,14 @@
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P10\19.11.2842_Tugas10\19.11.2842_Tugas10\bin\Debug\netcoreapp3.1\19.11.2842_Tugas10.exe
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P10\19.11.2842_Tugas10\19.11.2842_Tugas10\bin\Debug\netcoreapp3.1\19.11.2842_Tugas10.deps.json
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P10\19.11.2842_Tugas10\19.11.2842_Tugas10\bin\Debug\netcoreapp3.1\19.11.2842_Tugas10.runtimeconfig.json
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P10\19.11.2842_Tugas10\19.11.2842_Tugas10\bin\Debug\netcoreapp3.1\19.11.2842_Tugas10.runtimeconfig.dev.json
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P10\19.11.2842_Tugas10\19.11.2842_Tugas10\bin\Debug\netcoreapp3.1\19.11.2842_Tugas10.dll
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P10\19.11.2842_Tugas10\19.11.2842_Tugas10\bin\Debug\netcoreapp3.1\19.11.2842_Tugas10.pdb
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P10\19.11.2842_Tugas10\19.11.2842_Tugas10\obj\Debug\netcoreapp3.1\19.11.2842_Tugas10.csproj.AssemblyReference.cache
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P10\19.11.2842_Tugas10\19.11.2842_Tugas10\obj\Debug\netcoreapp3.1\19.11.2842_Tugas10.GeneratedMSBuildEditorConfig.editorconfig
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P10\19.11.2842_Tugas10\19.11.2842_Tugas10\obj\Debug\netcoreapp3.1\19.11.2842_Tugas10.AssemblyInfoInputs.cache
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P10\19.11.2842_Tugas10\19.11.2842_Tugas10\obj\Debug\netcoreapp3.1\19.11.2842_Tugas10.AssemblyInfo.cs
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P10\19.11.2842_Tugas10\19.11.2842_Tugas10\obj\Debug\netcoreapp3.1\19.11.2842_Tugas10.csproj.CoreCompileInputs.cache
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P10\19.11.2842_Tugas10\19.11.2842_Tugas10\obj\Debug\netcoreapp3.1\19.11.2842_Tugas10.dll
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P10\19.11.2842_Tugas10\19.11.2842_Tugas10\obj\Debug\netcoreapp3.1\19.11.2842_Tugas10.pdb
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P10\19.11.2842_Tugas10\19.11.2842_Tugas10\obj\Debug\netcoreapp3.1\19.11.2842_Tugas10.genruntimeconfig.cache
